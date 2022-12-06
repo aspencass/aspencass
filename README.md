@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # 💫 About Me:
 🔭 I’m currently working on a Dance Listing site with a React frontend with Rails backend. This app creates a place for Denver dance artists to connect via classes, festivals, professional development, resource sharing, and ongoing meetings.<br>🤝 I’m looking for help with expanding my network by connecting to local Denver Devs. <br>🌱 I’m currently learning Flowbite <br>💬 Ask me about humanity in code. <br>⚡Fun fact, I dance professionally! 
 
