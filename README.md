@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Snowflake, and most recently completed a single page app with information pertaining to weekly dance classes I host in downtown Denver.<br>🤝 I’m looking for help with expanding my network by connecting to local Denver Devs. <br>🌱 I’m currently learning Flowbite <br>💬 Ask me about humanity in code. <br>⚡Fun fact, I dance professionally! 
+🔭 I’m currently working at Snowflake, and most recently completed a single page artist app.<br>🤝 I’m looking for help with expanding my network by connecting to local Denver Women in Tech. <br>🌱 I’m currently learning a lot about SNOWFLAKE <br>💬 Ask me about humanity in code. <br>⚡Fun fact, I dance professionally! 
 
 
 ## 🌐 Socials:
